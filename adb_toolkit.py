@@ -670,7 +670,6 @@ def stream_rear_camera():
 
 app = tk.Tk()
 app.title("ADB Toolkit")
-app.iconbitmap('toolkit.ico')
 app.geometry("1200x800")
 app.configure(bg="#000000")
 
